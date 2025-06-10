@@ -1,2 +1,53 @@
-# Used-Bike-Prices--Feature-Engineering-and-EDA
-This project explores used bike price prediction through extensive exploratory data analysis and feature engineering. Key steps include handling missing values, encoding, scaling, and visualizations. The processed data is prepared for modeling, ensuring better performance and insights.
+# Used Bike Price Prediction - EDA & Feature Engineering
+
+## 📌 Overview
+This project focuses on Exploratory Data Analysis (EDA) and Feature Engineering for predicting used bike prices. It involves cleaning data, transforming features, handling outliers, and visualizing key patterns to optimize the dataset for machine learning models.
+
+## 📁 Dataset
+The dataset contains details about used bikes, including:
+- Brand and model
+- Year of manufacture
+- Kilometers driven
+- Owner type
+- Seller type
+- Fuel type
+- Transmission type
+- Price
+
+## 🔍 Key Steps
+1. **Data Cleaning**
+   - Handled missing/null values
+   - Removed duplicates
+   - Treated outliers
+
+2. **Feature Engineering**
+   - Extracted and transformed date fields
+   - Encoded categorical variables
+   - Created new features (e.g., vehicle age)
+
+3. **Data Visualization**
+   - Distribution plots
+   - Correlation heatmap
+   - Boxplots to detect skewness
+
+4. **Preprocessing**
+   - One-Hot Encoding / Label Encoding
+   - Feature scaling using StandardScaler/MinMaxScaler
+
+## 📊 Tools Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+## 📈 Outcome
+A clean and well-engineered dataset ready for training ML models to predict used bike prices more accurately.
+
+## 🤝 Contributions
+Developed by [Your Name].
+
+## 📬 Contact
+For queries or collaborations, reach out at [your.email@example.com].
+
