@@ -45,9 +45,6 @@ The dataset contains details about used bikes, including:
 ## 📈 Outcome
 A clean and well-engineered dataset ready for training ML models to predict used bike prices more accurately.
 
-## 🤝 Contributions
-Developed by [Your Name].
 
-## 📬 Contact
-For queries or collaborations, reach out at [your.email@example.com].
+
 
